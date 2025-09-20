@@ -25,7 +25,7 @@ Follow these steps to get your bot up and running:
 
 ### 1️⃣ **Clone the Repository**
 ```bash
-git clone https://github.com/nexoscreation/bot-github-template.git
+git clone https://github.com/nexoslabs/bot-github-template.git
 cd bot-github-template
 ```
 
@@ -103,7 +103,7 @@ This repository is licensed under the MIT License. See [`LICENSE.md`](LICENSE.md
 ## 🌟 **Support**
 
 - Found this template helpful? Give us a ⭐ on GitHub!
-- Questions? Open an issue or join the discussion in [`Discussions`](https://github.com/nexoscreation/bot-github-template/discussions).
+- Questions? Open an issue or join the discussion in [`Discussions`](https://github.com/nexoslabs/bot-github-template/discussions).
 
 ---
 
