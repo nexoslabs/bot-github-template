@@ -3,10 +3,10 @@
   "version": "0.3.0",
   "private": true,
   "description": "A Nexos Automation Bot",
-  "author": "Nexos Creator",
+  "author": "Nexos Labs",
   "license": "ISC",
   "main": "./lib/index.js",
-  "homepage": "https://github.com/nexoscreation/bot-github-template",
+  "homepage": "https://github.com/nexoslabs/bot-github-template",
   "keywords": [
     "probot",
     "github",
